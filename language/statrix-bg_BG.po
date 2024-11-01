@@ -1,0 +1,582 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Statrix 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Iva Koleva <iva.koleva@clearcode.bg>\n"
+"Language-Team: ClearCode Ltd. <contacts@clearcode.bg>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+
+#: hits.php
+msgid "Hits"
+msgstr "Посещения"
+
+#: hits.php
+msgid "Filter"
+msgstr "Филтър"
+
+#: hits.php
+msgid "Today"
+msgstr "Днес"
+
+#: hits.php
+msgid "Last %s days"
+msgstr "Последните %s дни"
+
+#: hits.php
+msgid "All"
+msgstr "Всички"
+
+#: hits.php
+msgid "Custom"
+msgstr "Друг ръчно направен"
+
+#: hits.php
+msgid "Required fields (if available)."
+msgstr "Задължителни полета (ако са налични)."
+
+#: hits.php
+msgid "Wildcards allowed (e.g. 192.168.*.*)."
+msgstr "Позволено ползването на звезда (напр. 192.168.*.*)."
+
+#: hits.php
+msgid "From"
+msgstr "От"
+
+#: hits.php
+msgid "To"
+msgstr "До"
+
+#: hits.php
+msgid "IP"
+msgstr "IP"
+
+#: hits.php
+msgid "Country code"
+msgstr "Код на държава"
+
+#: hits.php
+msgid "Country name"
+msgstr "Име на държава"
+
+#: hits.php
+msgid "Username"
+msgstr "Потребителско име"
+
+#: hits.php
+msgid "Not Specified"
+msgstr "Непосочено"
+
+#: hits.php
+msgid "Anonymous"
+msgstr "Анонимен"
+
+#: hits.php
+msgid "Page"
+msgstr "Страница"
+
+#: hits.php
+msgid "Wildcards allowed (e.g. /wp-admin/admin.php?page=*)."
+msgstr "Позволено ползването на звезда (напр. /wp-admin/admin.php?page=*)."
+
+#: hits.php
+msgid "Wildcards allowed (e.g. http://clearcode.bg/*)."
+msgstr "Позволено ползването на звезда (напр. http://clearcode.bg/*)."
+
+#: hits.php
+msgid "Referer"
+msgstr "Referer"
+
+#: hits.php
+msgid "empty"
+msgstr "празен"
+
+#: hits.php
+msgid "non-empty"
+msgstr "непразен"
+
+#: hits.php
+msgid "external only"
+msgstr "само външен"
+
+#: hits.php
+msgid "Only external referer"
+msgstr "Само външен referer"
+
+#: hits.php
+msgid "Non-empty referer"
+msgstr "Непразен referer"
+
+#: hits.php
+msgid "Empty referer"
+msgstr "Празен referer"
+
+#: hits.php
+msgid "OS"
+msgstr "OS"
+
+#: hits.php
+msgid "Browser"
+msgstr "Браузър"
+
+#: hits.php
+msgid "RSS"
+msgstr "RSS"
+
+#: hits.php
+msgid "Total hits"
+msgstr "Общо посещения"
+
+#: hits.php
+msgid "Hits per page"
+msgstr "Посещения на страница"
+
+#: hits.php
+msgid "Date"
+msgstr "Дата"
+
+#: hits.php
+msgid "Time"
+msgstr "Час"
+
+#: hits.php
+msgid "Do filter"
+msgstr "Филтрирай"
+
+#: hits.php
+msgid "Pages"
+msgstr "Страници"
+
+#: hits.php
+msgid "from"
+msgstr "от"
+
+#: hits.php
+msgid "Go"
+msgstr "Отиди"
+
+#: hits.php
+msgid "Delete selected"
+msgstr "Изтрий избраните"
+
+#: hits.php
+msgid "Are you sure you want to delete the selected items?"
+msgstr "Сигурни ли сте, че искате да изтриете избраните елементи?"
+
+#: options.php
+msgid "Options"
+msgstr "Настройки"
+
+#: options.pgp
+msgid "Statrix uses the timezone offset, managed in %s"
+msgstr "Statrix ползва отместване при часова зона, зададено в %s"
+
+#: options.php
+msgid "Collect data about"
+msgstr "Събирай данни за"
+
+#: options.php
+msgid "Anonymous visitors"
+msgstr "Анонимни посетители"
+
+#: options.php
+msgid "Logged users"
+msgstr "Влезли потребители"
+
+#: options.php
+msgid "Spiders"
+msgstr "Паяци"
+
+#: options.php
+msgid "Collect data from"
+msgstr "Събирай данни от"
+
+#: options.php
+msgid "Admin menu"
+msgstr "Административно меню"
+
+#: options.php
+msgid "Blog pages"
+msgstr "Страници на блога"
+
+#: options.php
+msgid "RSS feed"
+msgstr "RSS хранилка"
+
+#: options.php
+msgid "Exclude users"
+msgstr "Пропусни потребители"
+
+#: options.php
+msgid "Registered users"
+msgstr "Регистрирани потребители"
+
+#: options.php
+msgid "Excluded users"
+msgstr "Пропуснати потребители"
+
+#: options.php
+msgid "Exclude IPs"
+msgstr "Пропусни IP-та"
+
+#: options.php
+msgid "Exclude resources"
+msgstr "Пропусни ресурси"
+
+#: options.php
+msgid "Use <strong>*</strong> for wildcards."
+msgstr "Ползвай <strong>*</strong>."
+
+#: options.php
+msgid "Use <strong>:</strong> to separate IP from it's label."
+msgstr "Ползвай <strong>:</strong> за да отделиш IP от етикета му."
+
+#: options.php
+msgid "Start each entry on a new line."
+msgstr "Започни всяко ново въвеждане на нов ред."
+
+#: options.php
+msgid "Examples"
+msgstr "Примери"
+
+#: options.php
+msgid "Label IPs"
+msgstr "Сложи етикет на IP-та"
+
+#: options.php
+msgid "Delete history"
+msgstr "Изтривай история"
+
+#: options.php
+msgid "Olrder than a week"
+msgstr "По-стара от седмица"
+
+#: options.php
+msgid "Older than a month"
+msgstr "По-стара от месец"
+
+#: options.php
+msgid "Older than 6 months"
+msgstr "По-стара от 6 месеца"
+
+#: options.php
+msgid "Older than a year"
+msgstr "По-стара от година"
+
+#: options.php
+msgid "Never"
+msgstr "Никога"
+
+#: options.php
+msgid "Option for manually deletion"
+msgstr "Опция за ръчно изтриване"
+
+#: options.php
+msgid "Share Statrix with"
+msgstr "Сподели Statrix с"
+
+#: options.php
+msgid "Administrators only"
+msgstr "Само с Администратори"
+
+#: options.php
+msgid "Administrators, Editors"
+msgstr "Администратори, Редактори"
+
+#: options.php
+msgid "Administrators, Editors, Authors"
+msgstr "Администратори, Редактори, Автори"
+
+#: options.php
+msgid "Administrators, Editors, Authors, Contributors"
+msgstr "Администратори, Редактори, Автори, Сътрудници"
+
+#: options.php
+msgid "Administrators, Editors, Authors, Contributors, Subscribers"
+msgstr "Администратори, Редактори, Автори, Сътрудници, Абонати"
+
+#: options.php
+msgid "Set locale"
+msgstr "Настрой локализация"
+
+#: options.php
+msgid "Save changes"
+msgstr "Запази промените"
+
+#: options.php
+msgid "Show data about"
+msgstr "Показвай данни за"
+
+#: options.php
+msgid "Visitors' country by IP"
+msgstr "Посетителска държава по IP"
+
+#: options.php
+msgid "TURN ON"
+msgstr "ВКЛЮЧИ"
+
+#: options.php
+msgid "<b>INFO</b>: Turning this option on will initially create %s table into your MySQL, importing the whole <a href=\"%s\" target=\"_blank\">GeoIPCountryWhois</a> database.<br/>After the import, all of your previously collected visitors information will be updated."
+msgstr "<b>ИНФО</b>: Пускането на тази опция първоначално ще създаде таблица  %s във вашия MySQL, импортирайки цялата <a href=\"%s\" target=\"_blank\">GeoIPCountryWhois</a> база данни.<br/>След импорта, ще бъде обновена  всичката информация за посетителите, събрана до момента."
+
+#: options.php
+msgid "<b>WARNING</b>: Please note that turning this option on is a slow process itself, that should <u>not be interrupted</u>.<br/>In order to be completed, Statrix uses <a href=\"%s\" target=\"_blank\">set_time_limit()</a> PHP function, that has <u>no effect</u> when PHP is running in safe mode.<br/>In that case, your import and update will probably fail and you will <u>not</u> be able to use this functionality."
+msgstr "<b>ПРЕДУПРЕЖДЕНИЕ</b>: Моля отчетете, че пускането на тази опция е само по себе си бавен процес, който <u>не трябва да бъде прекъсван</u>.<br/>За да бъде завършен, Statrix ползва <a href=\"%s\" target=\"_blank\">set_time_limit()</a> PHP функцията, която <u>няма ефект</u> когато PHP върви в safe mode.<br/>В този случай, вашите импорт и обновяване най-вероятно няма да успеят, и Вие <u>няма</u> да можете да ползвате тази функционалност."
+
+#: options.php
+msgid "<b>ERROR</b>: If by some reason the script has been terminated, you will probably see a white screen or an error message.<br/>Don't worry, failing to turn this option on is <u>not dangerous</u>, but depends completely of your PHP and Web server configurations."
+msgstr "<b>ГРЕШКА</b>: Ако по някаква причина скриптът бъде прекратен, вероятно ще видите бял екран или съобщение за грешка.<br/>Не се притеснявайте, <u>не е опасно</u>  ако тази опция не се успее да се включи, което обаче зависи изцяло от настройките на вашите PHP и Уеб сървър."
+
+#: overview.php
+msgid "Overview"
+msgstr "Общ Преглед"
+
+#: overview.php
+msgid "Exclude spiders"
+msgstr "Пропусни паяците"
+
+#: overview.php
+msgid "Exclude RSS feeds"
+msgstr "Пропусни RSS хранилките"
+
+#: overview.php
+msgid "Other Statistics"
+msgstr "Други Статистики"
+
+#: overview.php
+msgid "Top page"
+msgstr "Популярна страница"
+
+#: overview.php
+msgid "Visits"
+msgstr "Посещения"
+
+#: overview.php
+msgid "Chart"
+msgstr "Графика"
+
+#: searchTerms.php
+msgid "Search Terms"
+msgstr "Критерии за Tърсене"
+
+#: searchTerms.php
+msgid "Search engine"
+msgstr "Търсачка"
+
+#: searchTerms.php
+msgid "Search terms"
+msgstr "Критерии за търсене"
+
+#: searchTerms.php
+msgid "Wildcards allowed (e.g. blog*)."
+msgstr "Позволено ползването на звезда (напр. blog*)."
+
+#: searchTerms.php
+msgid "Total search terms"
+msgstr "Общо критерии за търсене"
+
+#: searchTerms.php
+msgid "Search terms per page"
+msgstr "Критерии за търсене на страница"
+
+#: spiders.php
+msgid "Spider"
+msgstr "Паяк"
+
+#: spiders.php
+msgid "Agent"
+msgstr "Agent"
+
+#: spiders.php
+msgid "Wildcards allowed (e.g. *Mozilla/5.0*)."
+msgstr "Позволено ползването на звезда (напр. *Mozilla/5.0*)."
+
+#: spiders.php
+msgid "Total spiders"
+msgstr "Общо паяци"
+
+#: spiders.php
+msgid "Spiders per page"
+msgstr "Паяци на страница"
+
+#: statrix.php
+msgid "Export"
+msgstr "Експорт"
+
+#: statrix.php
+msgid "Day"
+msgstr "Ден"
+
+#: statrix.php
+msgid "Month"
+msgstr "Месец"
+
+#: statrix.php
+msgid "January"
+msgstr "януари"
+
+#: statrix.php
+msgid "February"
+msgstr "февруари"
+
+#: statrix.php
+msgid "March"
+msgstr "март"
+
+#: statrix.php
+msgid "April"
+msgstr "април"
+
+#: statrix.php
+msgid "May"
+msgstr "май"
+
+#: statrix.php
+msgid "June"
+msgstr "юни"
+
+#: statrix.php
+msgid "July"
+msgstr "юли"
+
+#: statrix.php
+msgid "August"
+msgstr "август"
+
+#: statrix.php
+msgid "September"
+msgstr "септември"
+
+#: statrix.php
+msgid "October"
+msgstr "октомври"
+
+#: statrix.php
+msgid "November"
+msgstr "ноември"
+
+#: statrix.php
+msgid "December"
+msgstr "декември"
+
+#: statrix.php
+msgid "Year"
+msgstr "Година"
+
+#: statrix.php
+msgid "Hour"
+msgstr "Час"
+
+#: statrix.php
+msgid "Minutes"
+msgstr "Минути"
+
+#: statrix.js.php
+msgid "Spiders excluded"
+msgstr "Паяците са пропуснати"
+
+#: statrix.js.php
+msgid "RSS feeds excluded"
+msgstr "RSS хранилките са пропуснати"
+
+#: statrix.js.php
+msgid "h"
+msgstr "ч"
+
+#: statrix.js.php
+msgid "Monday"
+msgstr "понеделник"
+
+#: statrix.js.php
+msgid "Tuesday"
+msgstr "вторник"
+
+#: statrix.js.php
+msgid "Wednesday"
+msgstr "сряда"
+
+#: statrix.js.php
+msgid "Thursday"
+msgstr "четвъртък"
+
+#: statrix.js.php
+msgid "Friday"
+msgstr "петък"
+
+#: statrix.js.php
+msgid "Saturday"
+msgstr "събота"
+
+#: statrix.js.php
+msgid "Sunday"
+msgstr "неделя"
+
+#: statrix.js.php
+msgid "Week"
+msgstr "седмица"
+
+#: ip2countryImport.php
+msgid "IP2country import"
+msgstr "Импорт на IP към държава"
+
+#: ip2countryImport.php
+msgid "Re-import needed. The old data table (%s) has been dropped.<br/>Re-import finished successfully."
+msgstr "Нужен е преимпорт. Старата таблица в базата (%s) е изтрита.</br>Преимпортът приключи успешно."
+
+#: ip2countryImport.php
+msgid "No re-import needed."
+msgstr "Не е нужен преимпорт."
+
+#: ip2countryImport.php
+msgid "Import finished successfully."
+msgstr "Импортът приключи успешно."
+
+#: ip2countryImport.php
+msgid "Re-import failed. Cannot locate file %s"
+msgstr "Преимпортът неуспешен. Не може да се локализира файл %s"
+
+#: ip2countryImport.php
+msgid "Import failed. Cannot locate file %s"
+msgstr "Импортът неуспешен. Не може да се локализира файл %s"
+
+#: ip2countryImport.php
+msgid "The IP2country option is now on."
+msgstr "Опцията IP към държава е включена."
+
+#: ip2countryImport.php
+msgid "The IP2country option is now off."
+msgstr "Опцията IP към държава е изключена."
+
+#: ip2countryImport.php
+msgid "Go back to Statrix options."
+msgstr "Обратно към настройките на Statrix."
+
+#: ip2countryImport.php
+msgid "Private"
+msgstr "Частен (Private)"
+
+#: ip2countryImport.php
+msgid "Link local"
+msgstr "Локална връзка (Link local)"
+
+#: ip2countryImport.php
+msgid "Loopback"
+msgstr "Локален хост (Loopback)"
+
+#~ msgid "IP location"
+#~ msgstr "Локация на IP"
+
+#~ msgid "Re-import finished successfully."
+#~ msgstr "Преимпортът приключи успешно."
+
+#~ msgid "Use + for non-empty referer."
+#~ msgstr "Ползвай + за непразен referer."
+
+#~ msgid "Exclude Users"
+#~ msgstr "Пропусни Потребители"

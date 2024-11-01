@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Statrix\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Iva Koleva <iva.koleva@clearcode.bg>\n"
+"Language-Team: ClearCode Ltd. <contacts@clearcode.bg>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: hits.php
+msgid "Hits"
+msgstr ""
+
+#: hits.php
+msgid "Filter"
+msgstr ""
+
+#: hits.php
+msgid "Today"
+msgstr ""
+
+#: hits.php
+msgid "Last %s days"
+msgstr ""
+
+#: hits.php
+msgid "All"
+msgstr ""
+
+#: hits.php
+msgid "Custom"
+msgstr ""
+
+#: hits.php
+msgid "Required fields (if available)."
+msgstr ""
+
+#: hits.php
+msgid "Wildcards allowed (e.g. 192.168.*.*)."
+msgstr ""
+
+#: hits.php
+msgid "From"
+msgstr ""
+
+#: hits.php
+msgid "To"
+msgstr ""
+
+#: hits.php
+msgid "IP"
+msgstr ""
+
+#: hits.php
+msgid "Country code"
+msgstr ""
+
+#: hits.php
+msgid "Country name"
+msgstr ""
+
+#: hits.php
+msgid "Username"
+msgstr ""
+
+#: hits.php
+msgid "Not Specified"
+msgstr ""
+
+#: hits.php
+msgid "Anonymous"
+msgstr ""
+
+#: hits.php
+msgid "Page"
+msgstr ""
+
+#: hits.php
+msgid "Wildcards allowed (e.g. /wp-admin/admin.php?page=*)."
+msgstr ""
+
+#: hits.php
+msgid "Wildcards allowed (e.g. http://clearcode.bg/*)."
+msgstr ""
+
+#: hits.php
+msgid "Referer"
+msgstr ""
+
+#: hits.php
+msgid "empty"
+msgstr ""
+
+#: hits.php
+msgid "non-empty"
+msgstr ""
+
+#: hits.php
+msgid "external only"
+msgstr ""
+
+#: hits.php
+msgid "Only external referer"
+msgstr ""
+
+#: hits.php
+msgid "Non-empty referer"
+msgstr ""
+
+#: hits.php
+msgid "Empty referer"
+msgstr ""
+
+#: hits.php
+msgid "OS"
+msgstr ""
+
+#: hits.php
+msgid "Browser"
+msgstr ""
+
+#: hits.php
+msgid "RSS"
+msgstr ""
+
+#: hits.php
+msgid "Total hits"
+msgstr ""
+
+#: hits.php
+msgid "Hits per page"
+msgstr ""
+
+#: hits.php
+msgid "Date"
+msgstr ""
+
+#: hits.php
+msgid "Time"
+msgstr ""
+
+#: hits.php
+msgid "Do filter"
+msgstr ""
+
+#: hits.php
+msgid "Pages"
+msgstr ""
+
+#: hits.php
+msgid "from"
+msgstr ""
+
+#: hits.php
+msgid "Go"
+msgstr ""
+
+#: hits.php
+msgid "Delete selected"
+msgstr ""
+
+#: hits.php
+msgid "Are you sure you want to delete the selected items?"
+msgstr ""
+
+#: options.php
+msgid "Options"
+msgstr ""
+
+#: options.pgp
+msgid "Statrix uses the timezone offset, managed in %s"
+msgstr ""
+
+#: options.php
+msgid "Collect data about"
+msgstr ""
+
+#: options.php
+msgid "Anonymous visitors"
+msgstr ""
+
+#: options.php
+msgid "Logged users"
+msgstr ""
+
+#: options.php
+msgid "Spiders"
+msgstr ""
+
+#: options.php
+msgid "Collect data from"
+msgstr ""
+
+#: options.php
+msgid "Admin menu"
+msgstr ""
+
+#: options.php
+msgid "Blog pages"
+msgstr ""
+
+#: options.php
+msgid "RSS feed"
+msgstr ""
+
+#: options.php
+msgid "Exclude users"
+msgstr ""
+
+#: options.php
+msgid "Registered users"
+msgstr ""
+
+#: options.php
+msgid "Excluded users"
+msgstr ""
+
+#: options.php
+msgid "Exclude IPs"
+msgstr ""
+
+#: options.php
+msgid "Exclude resources"
+msgstr ""
+
+#: options.php
+msgid "Use <strong>*</strong> for wildcards."
+msgstr ""
+
+#: options.php
+msgid "Use <strong>:</strong> to separate IP from it's label."
+msgstr ""
+
+#: options.php
+msgid "Start each entry on a new line."
+msgstr ""
+
+#: options.php
+msgid "Examples"
+msgstr ""
+
+#: options.php
+msgid "Label IPs"
+msgstr ""
+
+#: options.php
+msgid "Delete history"
+msgstr ""
+
+#: options.php
+msgid "Olrder than a week"
+msgstr ""
+
+#: options.php
+msgid "Older than a month"
+msgstr ""
+
+#: options.php
+msgid "Older than 6 months"
+msgstr ""
+
+#: options.php
+msgid "Older than a year"
+msgstr ""
+
+#: options.php
+msgid "Never"
+msgstr ""
+
+#: options.php
+msgid "Option for manually deletion"
+msgstr ""
+
+#: options.php
+msgid "Share Statrix with"
+msgstr ""
+
+#: options.php
+msgid "Administrators only"
+msgstr ""
+
+#: options.php
+msgid "Administrators, Editors"
+msgstr ""
+
+#: options.php
+msgid "Administrators, Editors, Authors"
+msgstr ""
+
+#: options.php
+msgid "Administrators, Editors, Authors, Contributors"
+msgstr ""
+
+#: options.php
+msgid "Administrators, Editors, Authors, Contributors, Subscribers"
+msgstr ""
+
+#: options.php
+msgid "Set locale"
+msgstr ""
+
+#: options.php
+msgid "Save changes"
+msgstr ""
+
+#: options.php
+msgid "Show data about"
+msgstr ""
+
+#: options.php
+msgid "Visitors' country by IP"
+msgstr ""
+
+#: options.php
+msgid "TURN ON"
+msgstr ""
+
+#: options.php
+msgid "<b>INFO</b>: Turning this option on will initially create %s table into your MySQL, importing the whole <a href=\"%s\" target=\"_blank\">GeoIPCountryWhois</a> database.<br/>After the import, all of your previously collected visitors information will be updated."
+msgstr ""
+
+#: options.php
+msgid "<b>WARNING</b>: Please note that turning this option on is a slow process itself, that should <u>not be interrupted</u>.<br/>In order to be completed, Statrix uses <a href=\"%s\" target=\"_blank\">set_time_limit()</a> PHP function, that has <u>no effect</u> when PHP is running in safe mode.<br/>In that case, your import and update will probably fail and you will <u>not</u> be able to use this functionality."
+msgstr ""
+
+#: options.php
+msgid "<b>ERROR</b>: If by some reason the script has been terminated, you will probably see a white screen or an error message.<br/>Don't worry, failing to turn this option on is <u>not dangerous</u>, but depends completely of your PHP and Web server configurations."
+msgstr ""
+
+
+#: overview.php
+msgid "Overview"
+msgstr ""
+
+#: overview.php
+msgid "Exclude spiders"
+msgstr ""
+
+#: overview.php
+msgid "Exclude RSS feeds"
+msgstr ""
+
+#: overview.php
+msgid "Other Statistics"
+msgstr ""
+
+#: overview.php
+msgid "Top page"
+msgstr ""
+
+#: overview.php
+msgid "Visits"
+msgstr ""
+
+#: overview.php
+msgid "Chart"
+msgstr ""
+
+#: searchTerms.php
+msgid "Search Terms"
+msgstr ""
+
+#: searchTerms.php
+msgid "Search engine"
+msgstr ""
+
+#: searchTerms.php
+msgid "Search terms"
+msgstr ""
+
+#: searchTerms.php
+msgid "Wildcards allowed (e.g. blog*)."
+msgstr ""
+
+#: searchTerms.php
+msgid "Total search terms"
+msgstr ""
+
+#: searchTerms.php
+msgid "Search terms per page"
+msgstr ""
+
+#: spiders.php
+msgid "Spider"
+msgstr ""
+
+#: spiders.php
+msgid "Agent"
+msgstr ""
+
+#: spiders.php
+msgid "Wildcards allowed (e.g. *Mozilla/5.0*)."
+msgstr ""
+
+#: spiders.php
+msgid "Total spiders"
+msgstr ""
+
+#: spiders.php
+msgid "Spiders per page"
+msgstr ""
+
+#: statrix.php
+msgid "Export"
+msgstr ""
+
+#: statrix.php
+msgid "Day"
+msgstr ""
+
+#: statrix.php
+msgid "Month"
+msgstr ""
+
+#: statrix.php
+msgid "January"
+msgstr ""
+
+#: statrix.php
+msgid "February"
+msgstr ""
+
+#: statrix.php
+msgid "March"
+msgstr ""
+
+#: statrix.php
+msgid "April"
+msgstr ""
+
+#: statrix.php
+msgid "May"
+msgstr ""
+
+#: statrix.php
+msgid "June"
+msgstr ""
+
+#: statrix.php
+msgid "July"
+msgstr ""
+
+#: statrix.php
+msgid "August"
+msgstr ""
+
+#: statrix.php
+msgid "September"
+msgstr ""
+
+#: statrix.php
+msgid "October"
+msgstr ""
+
+#: statrix.php
+msgid "November"
+msgstr ""
+
+#: statrix.php
+msgid "December"
+msgstr ""
+
+#: statrix.php
+msgid "Year"
+msgstr ""
+
+#: statrix.php
+msgid "Hour"
+msgstr ""
+
+#: statrix.php
+msgid "Minutes"
+msgstr ""
+
+#: statrix.js.php
+msgid "Spiders excluded"
+msgstr ""
+
+#: statrix.js.php
+msgid "RSS feeds excluded"
+msgstr ""
+
+#: statrix.js.php
+msgid "h"
+msgstr ""
+
+#: statrix.js.php
+msgid "Monday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Tuesday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Wednesday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Thursday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Friday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Saturday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Sunday"
+msgstr ""
+
+#: statrix.js.php
+msgid "Week"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "IP2country import"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Re-import needed. The old data table (%s) has been dropped.<br/>Re-import finished successfully."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "No re-import needed."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Import finished successfully."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Re-import failed. Cannot locate file %s"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Import failed. Cannot locate file %s"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "The IP2country option is now on."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "The IP2country option is now off."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Go back to Statrix options."
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Private"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Link local"
+msgstr ""
+
+#: ip2countryImport.php
+msgid "Loopback"
+msgstr ""
